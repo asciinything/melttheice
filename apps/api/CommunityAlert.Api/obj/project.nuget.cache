@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i/WAUYKGQTU=",
+  "success": true,
+  "projectFilePath": "/Users/briandorminey/code/melttheice/apps/api/CommunityAlert.Api/CommunityAlert.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/briandorminey/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/briandorminey/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
